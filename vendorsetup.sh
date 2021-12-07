@@ -1,1 +1,1 @@
-add_lunch_combo omni_pine-eng
+add_lunch_combo twrp_pine-eng

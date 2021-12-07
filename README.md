@@ -1,3 +1,3 @@
 # Wip Made From scratch 
 Credits
-Velosh for A72q recovery trees
+Soulrr for M31 or M32  recovery trees idr

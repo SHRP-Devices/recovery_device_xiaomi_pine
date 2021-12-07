@@ -2,7 +2,7 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/omni/config/common.mk)
+$(call inherit-product, vendor/twrp/config/common.mk)
 
 # Inherit from those products. Most specific first.
 #$(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)  # If you are building for a tablet
@@ -10,7 +10,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_RELEASE_NAME := pine
 
-PRODUCT_NAME := omni_pine
+PRODUCT_NAME := twrp_pine
 PRODUCT_DEVICE := pine
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
